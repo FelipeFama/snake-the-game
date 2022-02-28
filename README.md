@@ -5,7 +5,7 @@
 </P>
 
 
-# <h1>Tecnologias Utilizadas</h1>
+# <h1>Technologies Used</h1>
 - HTML 
 - CSS 
 - JAVASCRIPT
